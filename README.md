@@ -66,9 +66,6 @@ PasswordGenerator/
 ├── Password Generator.exe  # Executable file to run the software
 ```
 
-### License
-This project is licensed under the [MIT License](LICENSE).
-
 ### Contact
 Developed by **Atharva Raj Sinha**. For queries, feel free to reach out:
 - GitHub: [Atharva Raj Sinha](https://github.com/atharvarajsinha)
